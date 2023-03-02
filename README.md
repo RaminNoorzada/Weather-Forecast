@@ -15,9 +15,12 @@ This app was built using:
 * CSS
 * JavaScript
 * OpenWeatherMap API
-* API Key
 
 To use the OpenWeatherMap API, you will need to obtain an API key from their website. Once you have an API key, replace the value of API_KEY in script.js with your key.
 
-* License
+## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+## Functionalty 
+
+Walkthrough video: https://drive.google.com/file/d/19qU_nhyg0vN8uzrwoYcSRCHd-6ZDRJZ0/view 
